@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daa58a73.chunk.css",
+    "main.js": "/static/js/main.b36f76bf.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.89f1cf4a.js",
+    "static/css/2.288be84d.chunk.css": "/static/css/2.288be84d.chunk.css",
+    "static/js/2.602e0807.chunk.js": "/static/js/2.602e0807.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.12a4d4c6f8297b5364007d6d62d853fd.js": "/precache-manifest.12a4d4c6f8297b5364007d6d62d853fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.602e0807.chunk.js.LICENSE.txt": "/static/js/2.602e0807.chunk.js.LICENSE.txt",
+    "static/media/budwiz.jpg": "/static/media/budwiz.9d1dbc46.jpg",
+    "static/media/budwiz.png": "/static/media/budwiz.b1c25a36.png",
+    "static/media/computer.png": "/static/media/computer.5a5127ef.png",
+    "static/media/computer.jpg": "/static/media/computer.9828c70d.jpg",
+    "static/media/hangman.png": "/static/media/hangman.938ef10f.png",
+    "static/media/hangman.jpg": "/static/media/hangman.d0cd42c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89f1cf4a.js",
+    "static/css/2.288be84d.chunk.css",
+    "static/js/2.602e0807.chunk.js",
+    "static/css/main.daa58a73.chunk.css",
+    "static/js/main.b36f76bf.chunk.js"
+  ]
+}
